@@ -1,0 +1,14 @@
+@font-face {
+    font-family: drifttype;
+    src: url('./drifttype.ttf');
+}
+
+h1 {
+    font-family: drifttype;
+    letter-spacing: 5px;
+}
+
+.kkk {
+    width: auto;
+    height: 1.3em;
+}
